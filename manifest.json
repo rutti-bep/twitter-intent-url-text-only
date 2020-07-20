@@ -1,6 +1,6 @@
 {
   "manifest_version": 2,
-  "name": "timeLagReTweet",
+  "name": "intent-url-text-only",
   "version":"0.0.1",
   "description":"intent/tweetで共有情報をへらす",
   "content_scripts": [
